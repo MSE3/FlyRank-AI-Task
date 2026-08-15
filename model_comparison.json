@@ -1,0 +1,27 @@
+{
+  "Baseline rule":{
+    "precision_at_K":0.5964912281,
+    "recall_at_K":0.1065830721,
+    "roc_auc":0.5544147974
+  },
+  "Logistic Reg.":{
+    "precision_at_K":0.6805170822,
+    "recall_at_K":0.1215970962,
+    "roc_auc":0.601188946
+  },
+  "Decision Tree":{
+    "precision_at_K":0.6038781163,
+    "recall_at_K":0.1079029863,
+    "roc_auc":0.5726314213
+  },
+  "Random Forest":{
+    "precision_at_K":0.6574330563,
+    "recall_at_K":0.1174723643,
+    "roc_auc":0.6167888842
+  },
+  "Gradient Boosting":{
+    "precision_at_K":0.6888273315,
+    "recall_at_K":0.1230819997,
+    "roc_auc":0.6321913054
+  }
+}
