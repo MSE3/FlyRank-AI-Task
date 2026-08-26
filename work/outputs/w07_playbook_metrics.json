@@ -1,0 +1,28 @@
+{
+  "precision_at_K_grouped_holdout": 0.689,
+  "roc_auc_grouped_holdout": 0.632,
+  "baseline_rule_precision_at_K": 0.596,
+  "test_fold_base_rate": 0.559,
+  "portfolio_base_rate": 0.542,
+  "n_pages_scored": 30000,
+  "n_clients": 32,
+  "reference_precision_at_K": 0.689,
+  "reference_base_rate": 0.542,
+  "reference_model_flagged_review_share": 0.204,
+  "recommended_recompute_cadence_days": 90,
+  "reason_code_counts": {
+    "ctr_below_position_expectation": 2384,
+    "model_flagged_review": 612,
+    "near_zero_signal": 3,
+    "low_active_days": 1
+  },
+  "archetype_counts": {
+    "Declining & Visible": 8914,
+    "Declining & Low-Visibility": 7348,
+    "Stable & Visible": 3992,
+    "Stable & Low-Visibility": 3122,
+    "Growing & Low-Visibility": 2374,
+    "New / Unproven": 2236,
+    "Growing & Visible": 2014
+  }
+}
