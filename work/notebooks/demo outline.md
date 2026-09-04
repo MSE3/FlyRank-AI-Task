@@ -1,4 +1,4 @@
-## 8. 5-Minute Demo Outline
+## 1. 5-Minute Demo Outline
 
 *For the Week-8 showcase — optional, but ready if presenting.*
 
@@ -28,7 +28,7 @@ auto-publishing, no auto-deleting pages) and the link to the full reproducible w
 
 ---
 
-## 9. Shareable Cuts
+## 2. Shareable Cuts
 
 ### Social post
 
